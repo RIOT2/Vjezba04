@@ -26,5 +26,10 @@ namespace Loto
         {
             MessageBox.Show("Hello world 2");
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello world 3");
+        }
     }
 }
